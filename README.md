@@ -3,7 +3,7 @@
 
  # Содержание:
   1. [SRS](https://github.com/AliakseiDuhanau/Tritpo_project/blob/main/Documentation/SRS.md)
-  2. [Mockups](https://github.com/AliakseiDuhanau/Tritpo_project/tree/main/Mockups)
+  2. [Mockups](https://github.com/AliakseiDuhanau/Tritpo_project/blob/main/Mockups/Mockups.md)
   3. [Activity](https://github.com/AliakseiDuhanau/Tritpo_project/blob/main/Diagrams/Activity/Activity.md)
   4. [Classes](https://github.com/AliakseiDuhanau/Tritpo_project/blob/main/Diagrams/Classes/ClassDiagram.md)
   5. [Components](https://github.com/AliakseiDuhanau/Tritpo_project/blob/main/Diagrams/Components/Components.md)
