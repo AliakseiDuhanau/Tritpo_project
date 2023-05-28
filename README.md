@@ -3,7 +3,7 @@
 
  # Содержание:
   1. [SRS](https://github.com/AliakseiDuhanau/Tritpo_project/blob/main/Documentation/SRS.md)
-  2. [Mockups]()
+  2. [Mockups](https://github.com/AliakseiDuhanau/Tritpo_project/tree/main/Mockups)
   3. [Activity]()
   4. [Classes]()
   5. [Components]()
