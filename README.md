@@ -1,6 +1,7 @@
 # KeyboardTrainer
  Программа, нацеленная на помощь в освоении десятипальцевого метода печати
 
+ # Содержание:
   1. [SRS](https://github.com/AliakseiDuhanau/Tritpo_project/blob/main/Documentation/SRS.md)
   2. [Mockups]()
   3. [Activity]()
